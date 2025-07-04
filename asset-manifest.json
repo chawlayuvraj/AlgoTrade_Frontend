@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlgoTrade_Frontend/static/css/main.87c31c3b.css",
+    "main.js": "/AlgoTrade_Frontend/static/js/main.ed73dd22.js",
+    "index.html": "/AlgoTrade_Frontend/index.html",
+    "main.87c31c3b.css.map": "/AlgoTrade_Frontend/static/css/main.87c31c3b.css.map",
+    "main.ed73dd22.js.map": "/AlgoTrade_Frontend/static/js/main.ed73dd22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c31c3b.css",
+    "static/js/main.ed73dd22.js"
+  ]
+}
